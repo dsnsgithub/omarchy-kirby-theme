@@ -6,6 +6,9 @@ Installation
 omarchy-theme-install https://github.com/dsnsgithub/omarchy-kirby-theme
 ```
 
+If the Menu Bar is not transparent,
+toggle Transparency under Style > Menu Bar > Transparency
+
 ---
 
 
