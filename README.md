@@ -9,6 +9,8 @@ omarchy-theme-install https://github.com/dsnsgithub/omarchy-kirby-theme
 If the Menu Bar is not transparent,
 toggle Transparency under Style > Menu Bar > Transparency
 
+Right click the time in the Menu Bar until it matches the one shown in the picture or the one you prefer.
+
 ---
 
 
